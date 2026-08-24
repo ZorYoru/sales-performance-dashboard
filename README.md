@@ -19,4 +19,5 @@ Dashboard interaktif yang dibuat menggunakan Google Looker Studio untuk menganal
 [View Interactive Dashboard](https://datastudio.google.com/reporting/0bbb3e99-88c1-45ce-81e2-512939a58190)
 
 ## Preview
-![Dashboard Preview](dashboard/dashboard-preview.png)
+![Dashboard Preview](dashboard/<img width="1122" height="841" alt="image" src="https://github.com/user-attachments/assets/3cf4891a-3ab6-4479-afe1-5e8efa5af40c" />
+)
