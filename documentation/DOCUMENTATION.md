@@ -147,7 +147,7 @@ Visualization & Insights
 
 Dashboard dibuat menggunakan Google Looker Studio dan dapat digunakan untuk melakukan eksplorasi data secara interaktif melalui berbagai filter dan visualisasi.
 
-> Dashboard Link: [Masukkan link dashboard Looker Studio di sini]
+> Dashboard Link: [(https://datastudio.google.com/u/0/reporting/0bbb3e99-88c1-45ce-81e2-512939a58190/page/65x6F)]
 
 ## 12. Conclusion
 
